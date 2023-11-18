@@ -1,6 +1,6 @@
 {
-  "name": "cucumber-tsflow",
-  "description": "Provides 'specflow' like bindings for CucumberJS 7.0.0+ in TypeScript 1.7+.",
+  "name": "@hyraiq/cucumber-tsflow",
+  "description": "Fork of cucumber-tsflow for internal use",
   "version": "4.0.0",
   "author": "Tim Roberts <tim@timjroberts.com>",
   "maintainers": [
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/timjroberts/cucumber-js-tsflow.git"
+    "url": "https://github.com/hyraiq/cucumber-tsflow.git"
   },
   "dependencies": {
     "callsites": "^3.1.0",
@@ -33,5 +33,8 @@
   },
   "peerDependencies": {
     "@cucumber/cucumber": "^7 || ^8 || ^9 || ^10"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
