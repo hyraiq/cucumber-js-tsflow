@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyraiq/cucumber-tsflow.git"
+    "url": "https://github.com/hyraiq/cucumber-js-tsflow.git"
   },
   "dependencies": {
     "callsites": "^3.1.0",
