@@ -1,5 +1,5 @@
 {
-  "name": "@hyraiq/cucumber-tsflow",
+  "name": "@hyraiq/cucumber-js-tsflow",
   "description": "Fork of cucumber-tsflow for internal use",
   "version": "4.0.0",
   "author": "Tim Roberts <tim@timjroberts.com>",
